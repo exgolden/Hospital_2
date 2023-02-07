@@ -25,8 +25,13 @@ Sistema para facilitar la creacion y consulta de citas en un Hospital
 
 
 ✅ Casos de uso
+
 -Consultar dispobnibilidad de horario de los doctores
+
 -Crear una cita
+
 -Checar una cita
+
 -Cancelar una cita
+
 -Modificar una cita
